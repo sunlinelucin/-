@@ -17,7 +17,7 @@ test.jsonl
 test.ipynb
 Jupyter Notebook，包含数据加载、模型定义、训练、评估和预测的完整代码流程。适合交互式实验和调试。
 
-best.pt
+best.pt//未上传，太大
 训练过程中保存的最佳模型参数文件（PyTorch格式），F1分数最高时自动保存。
 
 submit.txt
